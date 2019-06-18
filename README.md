@@ -1,5 +1,7 @@
 # Data-Dimension-Reduction
+-> Reducing 784 dimension in 2 dimension using following two techniques:
 ## PCA
+
 ![alt text](https://github.com/saini-dhiraj/Data-Dimension-Reduction/blob/master/PCA/PCA-on-MNIST-data.png)
 
 ## t-SNE
