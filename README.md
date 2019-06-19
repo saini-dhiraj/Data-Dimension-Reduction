@@ -2,7 +2,7 @@
 -> Reducing 784 dimensions to 2 dimensions using following two techniques:
 ## PCA
 
-![alt text](https://github.com/saini-dhiraj/Data-Dimension-Reduction/blob/master/PCA/PCA-on-MNIST-data.png)
+![alt text](https://saini-dhiraj.github.io/Data-Dimension-Reduction/PCA/PCA-on-MNIST-data.png)
 
 ## t-SNE
 ### tsne (perplexity = 100, steps = 2000)
